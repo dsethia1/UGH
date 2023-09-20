@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-lato: Lato;
+  --font-ubuntu: Ubuntu;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+  --font-size-4xl: 23px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-cornflowerblue: #5d7ac6;
+  --color-lavender: #d6eeff;
+  --color-darkseagreen-100: #a5cfa8;
+  --color-darkseagreen-200: rgba(165, 207, 168, 0.5);
+  --color-dimgray: #6a6a6a;
+  --color-darkgray: #b4b4b4;
+  --color-limegreen: #10ac1b;
+  --color-gold: #ffd600;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-26xl: 45px;
+}

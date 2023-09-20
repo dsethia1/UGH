@@ -1,0 +1,7 @@
+.startPageIcon {
+    width: 390px;
+    height: 844px;
+    overflow: hidden;
+    object-fit: cover;
+    cursor: pointer;
+  }

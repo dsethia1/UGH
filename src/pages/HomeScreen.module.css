@@ -1,0 +1,183 @@
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 727px;
+  left: 0;
+  width: 390px;
+  height: 2px;
+}
+.frameItem {
+  top: 0;
+  border-radius: 50%;
+  background-color: var(--color-lavender);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 72px;
+  height: 72px;
+  cursor: pointer;
+}
+.image3Icon {
+  position: absolute;
+  top: 21px;
+  left: calc(50% - 21px);
+  width: 42px;
+  height: 34px;
+  object-fit: cover;
+}
+.ellipseParent,
+.ridersThisWeek {
+  position: absolute;
+  top: 692px;
+  left: 159px;
+  width: 72px;
+  height: 72px;
+}
+.ridersThisWeek {
+  top: 533px;
+  left: 246px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 83px;
+  height: 19px;
+}
+.frameInner {
+  top: 503px;
+  left: 309px;
+  border-top: 2px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  width: 23.1px;
+  height: 2px;
+}
+.div,
+.frameInner,
+.lineDiv {
+  position: absolute;
+}
+.div {
+  top: 479px;
+  left: 278px;
+  font-size: 40px;
+  font-weight: 800;
+  color: #3e6baf;
+  display: inline-block;
+  width: 24px;
+  height: 49px;
+}
+.lineDiv {
+  top: 503px;
+  left: 247px;
+  border-top: 2px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  width: 23px;
+  height: 2px;
+}
+.youve {
+  margin: 0;
+}
+.youveTransported {
+  position: absolute;
+  top: 429px;
+  left: 248px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 83px;
+  height: 39px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 391px;
+  left: 37px;
+  border-radius: var(--br-3xs);
+  background-color: #f5f5f5;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 159px;
+  height: 208px;
+}
+.completeYourProfile {
+  position: absolute;
+  top: 473px;
+  left: calc(50% - 130px);
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 107px;
+  height: 39px;
+}
+.weeklyAnalytics {
+  position: absolute;
+  top: 319px;
+  left: 40px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-ubuntu);
+}
+.frameChild1 {
+  position: absolute;
+  top: 116px;
+  left: 37px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 308px;
+  height: 175px;
+}
+.frameButton {
+  position: absolute;
+  top: 225px;
+  left: 94px;
+  cursor: pointer;
+}
+.home,
+.theresStillAn {
+  position: absolute;
+  font-weight: 500;
+}
+.theresStillAn {
+  top: 158px;
+  left: 67px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: inline-block;
+  width: 273px;
+}
+.home {
+  top: 69px;
+  left: 42px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-ubuntu);
+}
+.user1Icon {
+  position: absolute;
+  top: 0;
+  left: 319px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.welcomeBackPaul {
+  position: absolute;
+  top: 5px;
+  left: 42px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.lineParent {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  width: 390px;
+  height: 764px;
+}
+.homeScreen {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

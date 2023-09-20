@@ -1,0 +1,102 @@
+.frameChild {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 416px;
+  height: 844px;
+}
+.capture{
+  top: 740px;
+  left: 150px;
+  font-weight: 600
+}
+.qrCodeWallStickersVinylDe {
+  position: absolute;
+  top: 227px;
+  left: 44px;
+  border-radius: var(--br-26xl);
+  background-color: #f4f4f4;
+  width: 324px;
+  height: 444px;
+}
+.container{
+  position: absolute;
+  top: 327px;
+  left: 20px;
+  border-radius: var(--br-26xl);
+  background-color: #f4f4f4;
+  width: 324px;
+  height: 444px;
+}
+.loading {
+  position: absolute;
+  top: 744px;
+  left: 170px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 270px;
+}
+.frameItem {
+  position: absolute;
+  top: 128px;
+  left: 48px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 320px;
+  height: 75px;
+}
+.pleaseScanYour {
+  position: absolute;
+  top: 146px;
+  left: 80px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: inline-block;
+  width: 270px;
+}
+.frameInner {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 397px;
+  height: 95px;
+}
+.completeYourProfile {
+  position: absolute;
+  top: 52px;
+  left: 95px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-ubuntu);
+}
+.download1Icon {
+  position: absolute;
+  top: 36px;
+  left: 48px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: -13px;
+  width: 440px;
+  height: 939px;
+}
+.driverPlateSetUp {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

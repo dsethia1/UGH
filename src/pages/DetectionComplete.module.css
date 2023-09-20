@@ -1,0 +1,94 @@
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 522px;
+  left: 0;
+  width: 390px;
+  height: 2px;
+}
+.frameItem {
+  top: 0;
+  border-radius: 50%;
+  background-color: var(--color-lavender);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 72px;
+  height: 72px;
+}
+.image3Icon {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  width: 42px;
+  height: 34px;
+  object-fit: cover;
+}
+.ellipseParent {
+  position: absolute;
+  top: 484px;
+  left: 159px;
+  width: 72px;
+  height: 72px;
+  cursor: pointer;
+}
+.frameInner {
+  position: absolute;
+  top: 0;
+  left: 145px;
+  border-radius: 50%;
+  background-color: var(--color-darkseagreen-100);
+  width: 100px;
+  height: 100px;
+}
+.youreNowReady {
+  position: absolute;
+  top: 172px;
+  left: 82px;
+  font-weight: 600;
+  display: inline-block;
+  width: 226px;
+  height: 39px;
+}
+.success {
+  position: absolute;
+  top: 117px;
+  left: 136px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  font-family: var(--font-ubuntu);
+}
+.frameChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 50px;
+  left: 169.66px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 29.81px;
+  height: 8px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.frameChild1 {
+  top: 71.08px;
+  left: 180px;
+  width: 56.28px;
+  transform: rotate(-45deg);
+}
+.lineParent {
+  position: absolute;
+  top: 250px;
+  left: 0;
+  width: 390px;
+  height: 556px;
+}
+.detectionComplete {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
