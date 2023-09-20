@@ -5,7 +5,8 @@ Safe Door To Door Communication
 Currently our front-end and back-end are running seperately. We would reccommend visual studio code for running backend and frontend. The backend can from camera access identify license plate. Front end is able to capture images. We still need to use flask to make it a full-stack app but we backend and frontend will serve as a proof of concept, such that in upcoming rounds we can make it a fully functional software application. 
 
 # Frontend - Public Folder
-Launching is through npm
+1. Launching app through this git-hub resp. https://github.com/dsethia1/FrontEnd_UGH.git 
+2. Launching is through npm
 
 ## Pip Commands (ios)
 (All commands in terminal)
