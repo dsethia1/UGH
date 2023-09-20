@@ -33,6 +33,7 @@ Most errors will be due to lack of files/libaries installed, ensure all libaries
 ## Backend Errors
 1. Access to camera --> Ensure the web-browser has access to camera
 2. M1 Chip --> We noticed M1 chip sometimes throws of some libraries, while the code should still be able to function that might be a reason why it's not working
+3. Create a virtual environment 
 
 ## Frontend Errors
 1. Firewall --> Prevents opening locally hosted browser and cannot connect to signal
