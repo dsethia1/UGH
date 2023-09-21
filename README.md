@@ -1,5 +1,8 @@
 # UGH
-Safe Door To Door Communication
+PYE: Safe Door To Door Communication
+
+![WhatsApp Image 2023-09-21 at 8 19 17 AM](https://github.com/dsethia1/UGH/assets/110313771/b0702f66-fd9b-4115-bfb2-a2b87a1e9c7d)
+
 
 # Launching Application
 Currently our front-end and back-end are running seperately. We would reccommend visual studio code for running backend and frontend. The backend can from camera access identify license plate. Front end is able to capture images. We still need to use flask to make it a full-stack app but we backend and frontend will serve as a proof of concept, such that in upcoming rounds we can make it a fully functional software application. 
