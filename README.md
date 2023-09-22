@@ -43,3 +43,13 @@ Most errors will be due to lack of files/libaries installed, ensure all libaries
    a. Solution: Disable Firewall in Settings
 2. Port already used --> We highly reccoommend using terminal to run commands as our current launching path is through terminal
 
+# Sources
+## Data Collection/Stats
+1. https://hpi.georgetown.edu/visual/#:~:text=Almost%2020%20million%20Americans%20%E2%80%94%208%20percent%20of,of%20independence%20among%20people%20age%2065%20and%20older
+2. https://www.consumeraffairs.com/homeowners/elderly-population-by-state.html
+## Dataset
+1. https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
+## Code
+1. https://viso.ai/computer-vision/automatic-number-plate-recognition-anpr/
+2. https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
+3. https://scikit-image.org/docs/stable/auto_examples/edges/plot_canny.html
